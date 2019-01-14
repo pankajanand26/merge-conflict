@@ -1,9 +1,9 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+# Web Development
+- skill: Web Development
+  description: Developed and maintained various enterprise websites in technologies including Django, Spring etc.
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Solution Design
+- skill: Solution Design
+  description: Developed designs for enterprise apllications.
